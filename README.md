@@ -1,2 +1,13 @@
-# delete-new-line
-Delete unnecessary line breaks such as when copying pdf text.
+# Delete New Line
+
+PDFのテキストをコピーする際などの不要な改行を削除します。
+
+クリップボードにコピーされている文字列を対象とし、コマンドを実行すると改行を削除しクリップボードを更新します。
+
+## 使い方
+
+Python3.x, pip, gitが必要です。
+
+```bash
+
+```
